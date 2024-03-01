@@ -24,7 +24,7 @@ To set up and deploy the contract locally, follow these steps:
     ```
 3. Deploy the contract to the ThirdWeb platform using the command:
     ```
-    npx thirdweb deploy
+    npx thirdweb deploy.
     ```
 4. Provide the following addresses:
    - Ethereum Sepolia router address: `0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59`
