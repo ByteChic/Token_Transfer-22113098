@@ -1,0 +1,17 @@
+/node_modules
+/.cache
+/.config
+/.dotnet
+/.foundry
+/.git
+/.github
+/.hushlogin
+/.local
+/.npm
+/.nvm
+.vim/
+/.vscode-remote-containers
+/.vscode-server
+/.yarn
+/fcc
+/scaffold-eth-2
