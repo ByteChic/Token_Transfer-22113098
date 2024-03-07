@@ -1,27 +1,24 @@
 .main {
-  width: 100vw;
-  min-height: 100vh;
-  height: auto;
   padding: 4rem 0;
 }
 
 .container {
-  width: 100%;
-  max-width: 1440px;
-  padding: 0 1rem;
+  max-width: 600px;
   margin: 0 auto;
+  padding: 0 1rem;
+  text-align: center;
 }
 
 .title {
-  text-align: center;
   color: #016bfb;
-  font-size: 80px;
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .description {
-  text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   line-height: 1.5;
+  margin-bottom: 2rem;
 }
 
 .form {
@@ -32,16 +29,17 @@
 
 .form-label {
   margin: 10px 0;
-  font-size: 18px;
+  font-size: 1rem;
 }
 
 .form-input {
   margin-bottom: 20px;
   padding: 10px;
-  width: 300px;
+  width: 100%;
+  max-width: 400px;
   border-radius: 5px;
   border: 1px solid #ccc;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .form-button {
@@ -51,32 +49,32 @@
   border-radius: 5px;
   border: none;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 1rem;
 }
 
 .transfer-message {
-  text-align: center;
   margin-top: 20px;
+  font-size: 1rem;
 }
 
 .footer {
+  margin-top: 3rem;
   text-align: center;
-  margin-top: 30px;
 }
 
 .footer-title {
   margin-bottom: 10px;
+  font-size: 1.2rem;
 }
 
 .footer p {
   margin: 5px;
+  font-size: 1rem;
 }
+
 .connect {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start;
   position: fixed;
-  top: 20px; /* Adjust as needed */
-  right: 20px; /* Adjust as needed */
-  z-index: 999; /* Ensure it appears above other content */
+  top: 20px;
+  right: 20px;
+  z-index: 999;
 }
