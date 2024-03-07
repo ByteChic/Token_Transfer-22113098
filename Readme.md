@@ -2,7 +2,10 @@
 
 ## Overview
 This repository contains a Solidity smart contract designed to facilitate token transfers across different blockchain networks using the Chainlink Cross-Chain Interoperability Protocol (CCIP). The contract allows for seamless token migration from Ethereum Sepolia to other supported blockchains, such as Polygon Mumbai, while enabling payment of CCIP fees in either LINK tokens or native gas tokens (e.g., ETH on Ethereum).
+## Demo Tutorial Video
 
+
+https://github.com/ByteChic/Token_Transfer-22113098/assets/137928762/bee9c172-8167-4523-b8a2-f232be942484
 ## Setup Locally
 To set up and deploy the contract locally, follow these steps:
 
@@ -37,9 +40,6 @@ To set up and deploy the contract locally, follow these steps:
 ## Additional Information
 This project is a simple token transfer implementation using CCIP. It is designed for educational purposes and intended as a learning exercise. Future iterations may include more advanced features.
 
-## Demo Tutorial Video
 
-
-https://github.com/ByteChic/Token_Transfer-22113098/assets/137928762/bee9c172-8167-4523-b8a2-f232be942484
 
 
